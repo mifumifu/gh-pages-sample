@@ -1,14 +1,16 @@
 .example {
     position: relative;
 }
+
 .example h1 {
     position: absolute;
     color: #fa86ad;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 3em;
     top: 25%;
     left: 25%;
 }
+
 .example img {
     position: relative;
     width: 500px;
@@ -24,7 +26,13 @@
     width: 100px;
 }
 
-.sample3 {padding: 10px;
+.money1 {
+    color: red;
+    font-size:20px;
+}
+
+.sample3 {
+    padding: 10px;
     margin-bottom: 10px;
     border: 2px dotted #333333;
 }
