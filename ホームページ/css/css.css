@@ -23,3 +23,9 @@
 .sample3 img {
     width: 100px;
 }
+
+.sample3 {padding: 10px;
+    margin-bottom: 10px;
+    border: 2px dotted #333333;
+}
+
